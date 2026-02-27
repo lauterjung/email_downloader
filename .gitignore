@@ -1,0 +1,4 @@
+*.eml
+*.msg
+.env
+.env.*
